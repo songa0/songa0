@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
   <h3>👩‍💻 About Me</h3>
   <p>
-   Learning Javascript   <br/>
+   Learning Javascript, React   <br/>
    Working as a web developer
   </p>
   <br/>
