@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
   <h3>🛠 Languages</h3>
   <p>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/office/40/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
   </p>
   <br/>
   
